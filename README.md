@@ -29,6 +29,8 @@ I'm an enthusiastic Web and App Developer with a passion for creating innovative
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -45,27 +47,61 @@ I'm an enthusiastic Web and App Developer with a passion for creating innovative
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+<div align="center" data-aos="fade-up">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rabiyajeh&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabiyajeh&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
 ## 🌟 Top Repositories
 
-[![E-Commerce Android Application](https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=e-commerce-android-app&theme=radical)](https://github.com/YourGitHubUsername/e-commerce-android-app)
-[![Personal Finance Manager App](https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=personal-finance-manager&theme=radical)](https://github.com/YourGitHubUsername/personal-finance-manager)
+<div align="center" data-aos="zoom-in">
+  <a href="https://github.com/rabiyajeh/framework">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rabiyajeh&repo=framework&theme=radical" alt="Framework Repo"/>
+  </a>
+  <a href="https://github.com/rabiyajeh/Android-Projects-Java-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rabiyajeh&repo=Android-Projects-Java-&theme=radical" alt="Android Projects Repo"/>
+  </a>
+</div>
+
+## 🔥 Contributions
+
+<div align="center" data-aos="fade-right">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rabiyajeh&theme=radical&hide_border=true" alt="GitHub Streak Stats"/>
+</div>
 
 ## ✍️ Blog & Writing
 
 ![Blog GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
 I enjoy sharing my knowledge and experiences through writing. Check out my latest blog posts:
-
 - [Getting Started with Android Development](#)
 - [Mastering Firebase for Android Apps](#)
 - [Optimizing Your App's Performance](#)
+
+## 💼 Projects
+
+![Projects GIF](https://media.giphy.com/media/5xtDarqlsEWbsa4nCho/giphy.gif)
+
+### E-Commerce Android Application
+<div data-aos="fade-left">
+  Developed a comprehensive e-commerce application allowing users to browse products, add to cart, and make purchases.
+</div>
+
+### Personal Finance Manager App
+<div data-aos="fade-right">
+  Created an Android application to help users manage their personal finances with features like expense tracking, budget planning, and visualizations.
+</div>
+
+### Social Networking App
+<div data-aos="fade-up">
+  Part of a team that developed a social networking application enabling users to create profiles, post updates, and interact with friends.
+</div>
 
 ## 📫 Contact Me
 
 ![Contact GIF](https://media.giphy.com/media/l41m6R3Ji0wHFCoT6/giphy.gif)
 
-Feel free to reach out to me via email at [rabbiyajehangir1@gmail.com](mailto:rabbiyajehangir1@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/rabbiya-jehangir-8b0a831ab).
+- 📧 Email: [rabbiyajehangir1@gmail.com](mailto:rabbiyajehangir1@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/rabbiya-jehangir-8b0a831ab](https://www.linkedin.com/in/rabbiya-jehangir-8b0a831ab)
 
 
