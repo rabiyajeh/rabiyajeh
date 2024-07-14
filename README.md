@@ -16,7 +16,7 @@ I'm an enthusiastic Web and App Developer with a passion for creating innovative
 
 ## 🛠️ Technologies & Tools
 
-![Technologies GIF](https://media.giphy.com/media/l3vR9c7jvW4F7wGVm/giphy.gif)
+![Technologies GIF](https://th.bing.com/th/id/OIP.I9bsNUYg806GHpd0oFStcwHaFQ?rs=1&pid=ImgDetMain)
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
