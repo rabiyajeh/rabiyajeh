@@ -81,7 +81,7 @@ I'm an enthusiastic Web and App Developer with a passion for creating innovative
 
 I enjoy sharing my knowledge and experiences through writing. Check out my latest blog posts:
 - [HTML basic syntax and Elements](https://learn-frontenddev.blogspot.com/2022/08/html-basic-syntax-and-elements.html)
-- [Getting Started with Android Development](#)
+- [Getting Started with Android Development](https://learn-frontenddev.blogspot.com/2024/07/getting-started-with-android-development.html)
 - [Mastering Firebase for Android Apps](#)
 - [Optimizing Your App's Performance](#)
 
