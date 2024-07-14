@@ -45,16 +45,22 @@ I'm an enthusiastic Web and App Developer with a passion for creating innovative
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rabiyajeh&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
+
 ## 📈 GitHub Stats
 
-<div align="center" data-aos="fade-up">
+<div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rabiyajeh&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabiyajeh&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ## 🌟 Top Repositories
 
-<div align="center" data-aos="zoom-in">
+<div align="center">
   <a href="https://github.com/rabiyajeh/framework">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rabiyajeh&repo=framework&theme=radical" alt="Framework Repo"/>
   </a>
@@ -65,7 +71,7 @@ I'm an enthusiastic Web and App Developer with a passion for creating innovative
 
 ## 🔥 Contributions
 
-<div align="center" data-aos="fade-right">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rabiyajeh&theme=radical&hide_border=true" alt="GitHub Streak Stats"/>
 </div>
 
