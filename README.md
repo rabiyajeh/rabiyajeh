@@ -1,35 +1,71 @@
-<h1 align="center">Hi 👋, I'm Rabbiya Jehangir</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+# Hi there, I'm Rabbiya Jehangir! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rabiyajeh&label=Profile%20views&color=0e75b6&style=flat" alt="rabiyajeh" /> </p>
+![Welcome Banner](https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rabiyajeh" alt="rabiyajeh" /></a> </p>
+## 🚀 About Me
 
+I'm an enthusiastic Web and App Developer with a passion for creating innovative applications that make a difference. With hands-on experience in Java, Kotlin, PHP, and a background in Computer Engineering, I love to turn ideas into reality through code.
 
-- 🔭 I’m currently working on **my portfolio**
+![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
-- 🌱 I’m currently learning **javascript frameworks**
+- 🌍 I'm based in Rawalpindi, Punjab
+- 🏫 I'm currently pursuing my Bachelor's in Computer Engineering at the Institute of Space Technology
+- 📫 How to reach me: [rabbiyajehangir1@gmail.com](mailto:rabbiyajehangir1@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/rabbiya-jehangir-8b0a831ab](https://www.linkedin.com/in/rabbiya-jehangir-8b0a831ab)
+- ⚡ Fun fact: I love working on personal finance and social networking apps
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT,C++,C.PYTHON,PHP,REACT**
+## 🛠️ Technologies & Tools
 
-- 📫 How to reach me **rabbiyajehangir1@gmail.com**
+![Technologies GIF](https://media.giphy.com/media/l3vR9c7jvW4F7wGVm/giphy.gif)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/rabbiya jehangir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rabbiya jehangir" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rabbiya jehangir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rabbiya jehangir" height="30" width="40" /></a>
-<a href="https://fb.com/horain farhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="horain farhan" height="30" width="40" /></a>
-<a href="https://instagram.com/rabi4_35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rabi4_35" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/rabbiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rabbiya" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rabbiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rabbiya" height="30" width="40" /></a>
-</p>
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+### Frameworks & Libraries
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rabiyajeh&show_icons=true&locale=en&layout=compact" alt="rabiyajeh" /></p>
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rabiyajeh&show_icons=true&locale=en" alt="rabiyajeh" /></p>
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rabiyajeh&" alt="rabiyajeh" /></p>
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+
+## 🌟 Top Repositories
+
+[![E-Commerce Android Application](https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=e-commerce-android-app&theme=radical)](https://github.com/YourGitHubUsername/e-commerce-android-app)
+[![Personal Finance Manager App](https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=personal-finance-manager&theme=radical)](https://github.com/YourGitHubUsername/personal-finance-manager)
+
+## ✍️ Blog & Writing
+
+![Blog GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+
+I enjoy sharing my knowledge and experiences through writing. Check out my latest blog posts:
+
+- [Getting Started with Android Development](#)
+- [Mastering Firebase for Android Apps](#)
+- [Optimizing Your App's Performance](#)
+
+## 📫 Contact Me
+
+![Contact GIF](https://media.giphy.com/media/l41m6R3Ji0wHFCoT6/giphy.gif)
+
+Feel free to reach out to me via email at [rabbiyajehangir1@gmail.com](mailto:rabbiyajehangir1@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/rabbiya-jehangir-8b0a831ab).
+
 
