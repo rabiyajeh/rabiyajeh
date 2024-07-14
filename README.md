@@ -80,6 +80,7 @@ I'm an enthusiastic Web and App Developer with a passion for creating innovative
 ![Blog GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
 I enjoy sharing my knowledge and experiences through writing. Check out my latest blog posts:
+- [HTML basic syntax and Elements](https://learn-frontenddev.blogspot.com/2022/08/html-basic-syntax-and-elements.html)
 - [Getting Started with Android Development](#)
 - [Mastering Firebase for Android Apps](#)
 - [Optimizing Your App's Performance](#)
