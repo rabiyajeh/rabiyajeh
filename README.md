@@ -6,8 +6,6 @@
 
 I'm an enthusiastic Web and App Developer with a passion for creating innovative applications that make a difference. With hands-on experience in Java, Kotlin, PHP, and a background in Computer Engineering, I love to turn ideas into reality through code.
 
-![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
-
 - 🌍 I'm based in Rawalpindi, Punjab
 - 🏫 I'm currently pursuing my Bachelor's in Computer Engineering at the Institute of Space Technology
 - 📫 How to reach me: [rabbiyajehangir1@gmail.com](mailto:rabbiyajehangir1@gmail.com)
@@ -15,8 +13,6 @@ I'm an enthusiastic Web and App Developer with a passion for creating innovative
 - ⚡ Fun fact: I love working on personal finance and social networking apps
 
 ## 🛠️ Technologies & Tools
-
-![Technologies GIF](https://th.bing.com/th/id/OIP.I9bsNUYg806GHpd0oFStcwHaFQ?rs=1&pid=ImgDetMain)
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -58,16 +54,6 @@ I'm an enthusiastic Web and App Developer with a passion for creating innovative
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabiyajeh&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-## 🌟 Top Repositories
-
-<div align="center">
-  <a href="https://github.com/rabiyajeh/framework">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rabiyajeh&repo=framework&theme=radical" alt="Framework Repo"/>
-  </a>
-  <a href="https://github.com/rabiyajeh/Android-Projects-Java-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rabiyajeh&repo=Android-Projects-Java-&theme=radical" alt="Android Projects Repo"/>
-  </a>
-</div>
 
 ## 🔥 Contributions
 
@@ -77,8 +63,6 @@ I'm an enthusiastic Web and App Developer with a passion for creating innovative
 
 ## ✍️ Blog & Writing
 
-
-
 I enjoy sharing my knowledge and experiences through writing. Check out my latest blog posts:
 - [HTML basic syntax and Elements](https://learn-frontenddev.blogspot.com/2022/08/html-basic-syntax-and-elements.html)
 - [Getting Started with Android Development](https://learn-frontenddev.blogspot.com/2024/07/getting-started-with-android-development.html)
@@ -87,26 +71,22 @@ I enjoy sharing my knowledge and experiences through writing. Check out my lates
 
 ## 💼 Projects
 
-
 ### E-Commerce Android Application
-<div data-aos="fade-left">
-  Developed a comprehensive e-commerce application allowing users to browse products, add to cart, and make purchases.
-</div>
+**Developed a comprehensive e-commerce application allowing users to browse products, add to cart, and make purchases.**
+
+[![Read More](https://img.shields.io/badge/Read%20More-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](#)
 
 ### Personal Finance Manager App
-<div data-aos="fade-right">
-  Created an Android application to help users manage their personal finances with features like expense tracking, budget planning, and visualizations.
-</div>
+**Created an Android application to help users manage their personal finances with features like expense tracking, budget planning, and visualizations.**
+
+[![Read More](https://img.shields.io/badge/Read%20More-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](#)
 
 ### Social Networking App
-<div data-aos="fade-up">
-  Part of a team that developed a social networking application enabling users to create profiles, post updates, and interact with friends.
-</div>
+**Part of a team that developed a social networking application enabling users to create profiles, post updates, and interact with friends.**
+
+[![Read More](https://img.shields.io/badge/Read%20More-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](#)
 
 ## 📫 Contact Me
 
-
 - 📧 Email: [rabbiyajehangir1@gmail.com](mailto:rabbiyajehangir1@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/rabbiya-jehangir-8b0a831ab](https://www.linkedin.com/in/rabbiya-jehangir-8b0a831ab)
-
-
