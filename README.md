@@ -77,7 +77,7 @@ I'm an enthusiastic Web and App Developer with a passion for creating innovative
 
 ## ✍️ Blog & Writing
 
-![Blog GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+
 
 I enjoy sharing my knowledge and experiences through writing. Check out my latest blog posts:
 - [HTML basic syntax and Elements](https://learn-frontenddev.blogspot.com/2022/08/html-basic-syntax-and-elements.html)
@@ -87,7 +87,6 @@ I enjoy sharing my knowledge and experiences through writing. Check out my lates
 
 ## 💼 Projects
 
-![Projects GIF](https://media.giphy.com/media/5xtDarqlsEWbsa4nCho/giphy.gif)
 
 ### E-Commerce Android Application
 <div data-aos="fade-left">
@@ -106,7 +105,6 @@ I enjoy sharing my knowledge and experiences through writing. Check out my lates
 
 ## 📫 Contact Me
 
-![Contact GIF](https://media.giphy.com/media/l41m6R3Ji0wHFCoT6/giphy.gif)
 
 - 📧 Email: [rabbiyajehangir1@gmail.com](mailto:rabbiyajehangir1@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/rabbiya-jehangir-8b0a831ab](https://www.linkedin.com/in/rabbiya-jehangir-8b0a831ab)
