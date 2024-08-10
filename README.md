@@ -71,15 +71,15 @@ I enjoy sharing my knowledge and experiences through writing. Check out my lates
 
 ## 💼 Projects
 
-### E-Commerce Android Application
+### E-Commerce Web Application
 **Developed a comprehensive e-commerce application allowing users to browse products, add to cart, and make purchases.**
 
-[![Read More](https://img.shields.io/badge/Read%20More-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](#)
+[![Read More](https://img.shields.io/badge/Read%20More-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/rabiyajeh/Laravel-Ecommerce_App)
 
-### Personal Finance Manager App
-**Created an Android application to help users manage their personal finances with features like expense tracking, budget planning, and visualizations.**
+### MedicQuick
+**Created a streamlit application to help patients ,generate reports , visualize symptom trends and ask questions related medical conditions **
 
-[![Read More](https://img.shields.io/badge/Read%20More-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](#)
+[![Read More](https://img.shields.io/badge/Read%20More-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/rabiyajeh/Falcon-Hackathon-Healthcare-app)
 
 ### Social Networking App
 **Part of a team that developed a social networking application enabling users to create profiles, post updates, and interact with friends.**
