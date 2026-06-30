@@ -1,26 +1,26 @@
-<!-- ========================= RABBIYA JEHANGIR | PREMIUM TECH README ========================= -->
+<!-- ======================= RABBIYA JEHANGIR | PREMIUM PORTFOLIO README ======================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:312E81,70:7C3AED,100:E879F9&height=280&section=header&text=Rabbiya%20Jehangir&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=WordPress%20Developer%20%7C%20Web%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Digital%20Experience%20Builder&descAlignY=58&descSize=17" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,20:111827,45:7C3AED,70:E879F9,100:38BDF8&height=290&section=header&text=Rabbiya%20Jehangir&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Premium%20Web%20Developer%20%7C%20WordPress%20Specialist%20%7C%20AI%20Explorer&descAlignY=58&descSize=18" />
 </p>
 
 <div align="center">
 
-# ✦ Rabbiya Jehangir
+# ✦ Digital Portfolio
 
-### `I build premium, responsive, business-ready websites with clean structure, modern UI, and practical functionality.`
+### `I design and build premium, responsive, business-ready web experiences.`
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E879F9&center=true&vCenter=true&width=980&lines=WordPress+%26+WooCommerce+Developer;Premium+Website+Builder;Frontend+%26+CMS+Developer;Python+%7C+AI+%7C+LLMs+Learner;Building+Clean+Digital+Experiences;Turning+Ideas+Into+Real+Web+Products" />
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=900&color=E879F9&center=true&vCenter=true&width=980&lines=WordPress+%26+WooCommerce+Developer;Premium+Website+Builder;Frontend+%26+CMS+Developer;AI+%7C+Python+%7C+LLMs+Learner;Building+Modern+Digital+Products;Turning+Ideas+Into+Polished+Web+Experiences" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=rabiyajeh&label=PROFILE+VIEWS&color=7c3aed&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/rabiyajeh?style=for-the-badge&color=020617&labelColor=7c3aed" />
-  <img src="https://img.shields.io/github/stars/rabiyajeh?style=for-the-badge&color=020617&labelColor=7c3aed" />
+  <img src="https://img.shields.io/github/stars/rabiyajeh?style=for-the-badge&color=020617&labelColor=e879f9" />
 </p>
 
-<p align="center">
+<p>
   <a href="https://rabbiya-web-gallery.com/">
     <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
@@ -47,15 +47,39 @@
 
 <br>
 
-<!-- ========================= EXECUTIVE SNAPSHOT ========================= -->
+<!-- ======================= PORTFOLIO NAVIGATION ======================= -->
 
-# ✦ 01 — Professional Snapshot
+<div align="center">
+
+## ✦ Portfolio Map
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td align="center"><b>01</b><br>Profile</td>
+<td align="center"><b>02</b><br>Stack</td>
+<td align="center"><b>03</b><br>Expertise</td>
+<td align="center"><b>04</b><br>Projects</td>
+<td align="center"><b>05</b><br>Services</td>
+<td align="center"><b>06</b><br>Stats</td>
+<td align="center"><b>07</b><br>Connect</td>
+</tr>
+</table>
 
-## 👩‍💻 Developer Identity
+</div>
+
+---
+
+<br>
+
+<!-- ======================= HERO PROFILE CARD ======================= -->
+
+# ✦ 01 — Premium Developer Profile
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+## 👩‍💻 Who I Am
 
 ```yaml
 name: Rabbiya Jehangir
@@ -63,39 +87,42 @@ location: Rawalpindi, Pakistan
 education: BS Computer Engineering
 university: Institute of Space Technology, Islamabad
 
-core_role: WordPress Developer
-focus_area:
-  - Premium business websites
-  - WordPress & WooCommerce development
-  - Responsive frontend experiences
-  - Website redesigns and landing pages
-  - SEO-friendly and performance-focused websites
+primary_identity:
+  - WordPress Developer
+  - Web Developer
+  - WooCommerce Developer
+  - Premium Website Builder
+  - AI Enthusiast
 
-currently_learning:
-  - Python
-  - AI & LLMs
-  - RAG concepts
-  - FastAPI
-  - Next.js
-  - AI-powered web products
+current_direction:
+  - Python for AI
+  - LLMs and prompt engineering
+  - RAG-based learning products
+  - FastAPI and backend APIs
+  - Next.js and modern full-stack apps
 ```
+
+I build clean, responsive, and visually polished websites with a strong focus on **WordPress, WooCommerce, Elementor, PHP, MySQL, SEO, speed optimization, and business-ready layouts**.
+
+My goal is to combine **premium web design + practical development + AI-powered functionality** to create digital products that look good and solve real problems.
 
 </td>
 
-<td width="45%" valign="top">
+<td width="42%" valign="top" align="center">
 
-## ✦ What I Bring
-
-- Premium website design sense  
-- WordPress and WooCommerce experience  
-- Clean, responsive frontend implementation  
-- Business-focused website structure  
-- Practical understanding of client needs  
-- Growing focus on AI-powered digital products  
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding animation"/>
 
 <br>
 
-> I like building websites that do not just look good — they feel clear, useful, polished, and ready for real users.
+<img src="https://img.shields.io/badge/Status-Open%20to%20Remote%20Work-22C55E?style=for-the-badge" />
+<br><br>
+<img src="https://img.shields.io/badge/Focus-Premium%20Websites-7C3AED?style=for-the-badge" />
+<br><br>
+<img src="https://img.shields.io/badge/Learning-AI%20%26%20LLMs-E879F9?style=for-the-badge" />
+
+<br><br>
+
+> Clean structure. Premium interface. Practical functionality.
 
 </td>
 </tr>
@@ -105,33 +132,43 @@ currently_learning:
 
 <br>
 
-<!-- ========================= BRAND STATEMENT ========================= -->
+<!-- ======================= VIBRANT VALUE SECTION ======================= -->
 
-# ✦ 02 — My Developer Brand
+# ✦ 02 — My Creative Code Signature
 
 <div align="center">
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="25%" align="center" valign="top">
 
-## ✨ Design Sense
+## ✨ Visual Polish
 
-I care about layout, spacing, visual balance, typography, sections, and user experience.
+Modern sections, attractive layouts, clean spacing, premium UI flow, and strong brand presentation.
 
 </td>
-<td width="33%" align="center">
+
+<td width="25%" align="center" valign="top">
 
 ## ⚙️ Functional Build
 
-I focus on responsive structure, working forms, clean pages, plugin setup, and practical business needs.
+Responsive pages, working forms, WooCommerce setup, plugin customization, and reliable website structure.
 
 </td>
-<td width="33%" align="center">
 
-## 🚀 Growth Mindset
+<td width="25%" align="center" valign="top">
 
-I am actively upgrading toward Python, AI, LLMs, automation, and modern full-stack workflows.
+## 🚀 Business Focus
+
+Websites designed for real businesses, service pages, portfolios, stores, lead capture, and digital credibility.
+
+</td>
+
+<td width="25%" align="center" valign="top">
+
+## 🤖 AI Growth
+
+Currently upgrading toward Python, LLMs, RAG, automation, and AI-powered web product development.
 
 </td>
 </tr>
@@ -143,13 +180,13 @@ I am actively upgrading toward Python, AI, LLMs, automation, and modern full-sta
 
 <br>
 
-<!-- ========================= TECH STACK ========================= -->
+<!-- ======================= TECH STACK ======================= -->
 
 # ✦ 03 — Tech Command Center
 
 <div align="center">
 
-## ⚙️ Core Technologies
+## ⚡ Core Stack
 
 <img src="https://skillicons.dev/icons?i=html,css,js,php,python,react,nextjs,nodejs,laravel,wordpress,bootstrap,tailwind,mysql,mongodb,firebase,supabase,git,github,docker,postman,figma,vscode&theme=dark" />
 
@@ -159,20 +196,20 @@ I am actively upgrading toward Python, AI, LLMs, automation, and modern full-sta
 
 <div align="center">
 
-## 🧩 Specialized Skills
+## 🧬 Premium Skill Badges
 
 <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
 <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" />
-<img src="https://img.shields.io/badge/ACF-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Contact%20Form%207-0F172A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ACF-020617?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Contact%20Form%207-111827?style=for-the-badge" />
 <img src="https://img.shields.io/badge/RankMath%20SEO-22C55E?style=for-the-badge" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/REST%20API-F97316?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Core%20Web%20Vitals-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/AI%20%26%20LLMs-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Core%20Web%20Vitals-38BDF8?style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/Prompt%20Engineering-E879F9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20%26%20LLMs-7C3AED?style=for-the-badge" />
 
 </div>
 
@@ -180,21 +217,21 @@ I am actively upgrading toward Python, AI, LLMs, automation, and modern full-sta
 
 <br>
 
-<!-- ========================= EXPERTISE MATRIX ========================= -->
+<!-- ======================= EXPERTISE MATRIX ======================= -->
 
 # ✦ 04 — Expertise Matrix
 
 <div align="center">
 
-| Domain | Tools / Skills | What I Build |
+| Domain | Tools & Technologies | Portfolio Value |
 |---|---|---|
-| **WordPress Development** | WordPress, Elementor, WooCommerce, ACF, CF7 | Business websites, landing pages, service sites, stores |
-| **Frontend Development** | HTML, CSS, JavaScript, Bootstrap, Tailwind | Responsive sections, modern layouts, interactive UI |
-| **Backend Basics** | PHP, Laravel basics, Node.js basics, REST APIs | Dynamic features, integrations, forms, backend flows |
-| **Database & Storage** | MySQL, MongoDB, Firebase, Supabase | Data-driven web features and structured content |
-| **Website Optimization** | SEO, speed optimization, Core Web Vitals, caching | Faster, cleaner, more search-friendly websites |
-| **AI Learning Track** | Python, LLMs, RAG, prompt engineering | AI learning platforms, automation ideas, smart tools |
-| **Tools & Workflow** | Git, GitHub, VS Code, Postman, Figma, cPanel, Hostinger | Development, deployment, debugging, and client delivery |
+| **WordPress Development** | WordPress, Elementor, WooCommerce, ACF, CF7 | Business websites, e-commerce stores, service websites, landing pages |
+| **Frontend Development** | HTML, CSS, JavaScript, Bootstrap, Tailwind | Responsive interfaces, premium sections, clean layouts |
+| **Backend Basics** | PHP, Laravel basics, Node.js basics, REST APIs | Forms, dynamic flows, integrations, backend logic |
+| **Database & Storage** | MySQL, MongoDB, Firebase, Supabase | Structured data, authentication concepts, content handling |
+| **Website Optimization** | SEO, Core Web Vitals, caching, image optimization | Faster loading, better structure, search-friendly websites |
+| **AI Learning Track** | Python, LLMs, RAG, prompt engineering | AI learning platforms, automation ideas, smart web tools |
+| **Delivery Tools** | Git, GitHub, VS Code, Postman, Figma, Hostinger, cPanel | Debugging, deployment, collaboration, client delivery |
 
 </div>
 
@@ -202,9 +239,9 @@ I am actively upgrading toward Python, AI, LLMs, automation, and modern full-sta
 
 <br>
 
-<!-- ========================= IMPACT CARDS ========================= -->
+<!-- ======================= IMPACT DASHBOARD ======================= -->
 
-# ✦ 05 — Impact Highlights
+# ✦ 05 — Impact Dashboard
 
 <div align="center">
 
@@ -212,26 +249,33 @@ I am actively upgrading toward Python, AI, LLMs, automation, and modern full-sta
 <tr>
 <td width="25%" align="center">
 
-## 40+
-Websites / pages worked on
+<img src="https://img.shields.io/badge/40%2B-Websites%20%2F%20Pages-7C3AED?style=for-the-badge" />
+
+### Real Web Work
 
 </td>
+
 <td width="25%" align="center">
 
-## CMS
-WordPress-focused development
+<img src="https://img.shields.io/badge/CMS-WordPress%20Focused-2563EB?style=for-the-badge" />
+
+### CMS Development
 
 </td>
+
 <td width="25%" align="center">
 
-## SEO
-Performance-aware builds
+<img src="https://img.shields.io/badge/SEO-Speed%20Aware-22C55E?style=for-the-badge" />
+
+### Optimization
 
 </td>
+
 <td width="25%" align="center">
 
-## AI
-Currently upgrading into AI web products
+<img src="https://img.shields.io/badge/AI-Growth%20Track-E879F9?style=for-the-badge" />
+
+### Future Direction
 
 </td>
 </tr>
@@ -243,9 +287,9 @@ Currently upgrading into AI web products
 
 <br>
 
-<!-- ========================= FEATURED AI PROJECT ========================= -->
+<!-- ======================= FEATURED PRODUCT ======================= -->
 
-# ✦ 06 — Featured AI Product Direction
+# ✦ 06 — Featured Product Vision
 
 <table>
 <tr>
@@ -253,14 +297,14 @@ Currently upgrading into AI web products
 
 ## 🤖 AI PyTutor / Py AI Mentor
 
-**AI PyTutor** is an AI-powered learning platform idea focused on helping students learn **Python, AI, ML, NLP, LLMs, RAG, data science, and programming fundamentals** through guided roadmaps, project-based learning, and smart support.
+**AI PyTutor** is my AI-powered learning platform direction designed to help students learn **Python, AI, ML, NLP, LLMs, RAG, data science, and programming fundamentals** through guided learning and practical projects.
 
-### Premium Feature Direction
+### ✨ Premium Feature Direction
 
 - Personalized AI learning roadmap  
 - Python and AI learning paths  
 - Homework and project analyzer  
-- Motivation-based learner experience  
+- Motivation-based learning flow  
 - Beginner-to-advanced project guidance  
 - AI mentor style support  
 - Practical learning instead of boring theory  
@@ -283,7 +327,7 @@ Currently upgrading into AI web products
 
 <br><br>
 
-### Product Vision
+### Product Goal
 
 > Make AI learning practical, guided, fun, and project-based.
 
@@ -295,11 +339,15 @@ Currently upgrading into AI web products
 
 <br>
 
-<!-- ========================= PREMIUM PROJECT SHOWCASE ========================= -->
+<!-- ======================= PORTFOLIO SHOWCASE ======================= -->
 
-# ✦ 07 — Premium Project Showcase
+# ✦ 07 — Premium Portfolio Showcase
 
-## 🌟 Selected Work
+<div align="center">
+
+## 🌟 Selected Digital Work
+
+</div>
 
 <table>
 <tr>
@@ -307,9 +355,9 @@ Currently upgrading into AI web products
 
 ## 💼 Personal Portfolio
 
-A polished developer portfolio showcasing my skills, services, projects, certifications, and developer identity.
+A polished developer portfolio showcasing my work, services, certifications, and developer identity.
 
-**Highlights**
+**Experience**
 - Premium personal branding  
 - Clean project showcase  
 - Responsive structure  
@@ -325,7 +373,7 @@ A polished developer portfolio showcasing my skills, services, projects, certifi
 
 A professional business website created for clean company and project presentation.
 
-**Highlights**
+**Experience**
 - Business-focused layout  
 - Clear content hierarchy  
 - Responsive pages  
@@ -343,7 +391,7 @@ A professional business website created for clean company and project presentati
 
 A modern business/service website built with clean structure and professional service presentation.
 
-**Highlights**
+**Experience**
 - Service-focused content  
 - Clean visual sections  
 - Business-ready UI  
@@ -357,9 +405,9 @@ A modern business/service website built with clean structure and professional se
 
 ## 💎 Crafted Bonds
 
-A feminine jewelry brand website focused on product presentation, brand feel, and elegant visuals.
+A feminine jewelry brand website focused on product presentation, brand identity, and elegant visuals.
 
-**Highlights**
+**Experience**
 - Brand-focused layout  
 - Elegant product sections  
 - Creative business identity  
@@ -377,7 +425,7 @@ A feminine jewelry brand website focused on product presentation, brand feel, an
 
 A business/product website designed for clear product and service visibility.
 
-**Highlights**
+**Experience**
 - Product-focused presentation  
 - Structured content  
 - Responsive layout  
@@ -393,7 +441,7 @@ A business/product website designed for clear product and service visibility.
 
 An informational website with simple navigation, clean structure, and readable content presentation.
 
-**Highlights**
+**Experience**
 - Informational layout  
 - Easy navigation  
 - Business-ready structure  
@@ -409,9 +457,9 @@ An informational website with simple navigation, clean structure, and readable c
 
 ## 🏘️ Zoya Venture Real Estate
 
-A real estate website focused on property presentation, professional branding, and lead generation.
+A real estate website focused on property presentation, business branding, and lead generation.
 
-**Highlights**
+**Experience**
 - Real estate website structure  
 - Property-focused sections  
 - Lead capture approach  
@@ -427,7 +475,7 @@ A real estate website focused on property presentation, professional branding, a
 
 A professional service website built for credibility, business presentation, and structured service content.
 
-**Highlights**
+**Experience**
 - Service-based layout  
 - Professional design  
 - Responsive UI  
@@ -445,7 +493,7 @@ A professional service website built for credibility, business presentation, and
 
 A software house website focused on AI, web development, mobile services, internships, and company branding.
 
-**Highlights**
+**Experience**
 - Tech business identity  
 - Services showcase  
 - Internship structure  
@@ -461,7 +509,7 @@ A software house website focused on AI, web development, mobile services, intern
 
 A Laravel and MySQL based e-commerce project with product management, cart, checkout, and backend functionality.
 
-**Highlights**
+**Experience**
 - Product management  
 - Cart and checkout flow  
 - Backend logic  
@@ -479,7 +527,7 @@ A Laravel and MySQL based e-commerce project with product management, cart, chec
 
 A healthcare-focused Streamlit project created for a hackathon with user interaction and data visualization.
 
-**Highlights**
+**Experience**
 - Healthcare assistant concept  
 - Streamlit interface  
 - Data visualization  
@@ -511,7 +559,7 @@ A beginner-friendly blog where I share development notes, frontend basics, and l
 
 <br>
 
-<!-- ========================= WEBSITE DIRECTORY ========================= -->
+<!-- ======================= LIVE WEBSITE DIRECTORY ======================= -->
 
 # ✦ 08 — Live Website Directory
 
@@ -536,7 +584,7 @@ A beginner-friendly blog where I share development notes, frontend basics, and l
 
 <br>
 
-<!-- ========================= SERVICES ========================= -->
+<!-- ======================= SERVICES ======================= -->
 
 # ✦ 09 — What I Can Build
 
@@ -546,9 +594,9 @@ A beginner-friendly blog where I share development notes, frontend basics, and l
 <tr>
 <td width="33%" valign="top">
 
-## 🌐 Business Websites
+## 🌐 Premium Business Websites
 
-Professional, responsive websites for companies, services, portfolios, and brands.
+Professional websites for companies, portfolios, service providers, startups, and brands.
 
 </td>
 
@@ -556,7 +604,7 @@ Professional, responsive websites for companies, services, portfolios, and brand
 
 ## 🛒 WooCommerce Stores
 
-Product pages, shop setup, checkout flow, store customization, and e-commerce structure.
+Shop setup, product pages, checkout flow, category structure, and store customization.
 
 </td>
 
@@ -564,7 +612,7 @@ Product pages, shop setup, checkout flow, store customization, and e-commerce st
 
 ## ✨ Landing Pages
 
-Modern, conversion-focused landing pages with clean sections and strong visual hierarchy.
+Conversion-focused landing pages with modern visuals, strong sections, and clear user flow.
 
 </td>
 </tr>
@@ -574,7 +622,7 @@ Modern, conversion-focused landing pages with clean sections and strong visual h
 
 ## ⚙️ WordPress Customization
 
-Elementor layouts, plugin setup, forms, redirects, styling, bug fixing, and content structure.
+Elementor sections, plugin setup, forms, redirects, styling fixes, and content structure.
 
 </td>
 
@@ -582,15 +630,15 @@ Elementor layouts, plugin setup, forms, redirects, styling, bug fixing, and cont
 
 ## 🚀 Website Optimization
 
-Speed, SEO basics, image optimization, caching, Core Web Vitals, and performance improvements.
+Speed improvements, SEO basics, image optimization, caching, Core Web Vitals, and cleanup.
 
 </td>
 
 <td width="33%" valign="top">
 
-## 🤖 AI Web Ideas
+## 🤖 AI Web Concepts
 
-AI tutor concepts, learning platforms, roadmap systems, prompt-powered features, and automation ideas.
+AI tutor ideas, learning platforms, roadmap systems, prompt-powered features, and automation ideas.
 
 </td>
 </tr>
@@ -602,7 +650,7 @@ AI tutor concepts, learning platforms, roadmap systems, prompt-powered features,
 
 <br>
 
-<!-- ========================= WORK PROCESS ========================= -->
+<!-- ======================= PROCESS ======================= -->
 
 # ✦ 10 — My Build Process
 
@@ -615,7 +663,7 @@ AI tutor concepts, learning platforms, roadmap systems, prompt-powered features,
 ## 01  
 ### Discover
 
-Understand the goal, audience, brand, service, and required user journey.
+Understand business goals, audience, service, content needs, and the required user journey.
 
 </td>
 
@@ -624,7 +672,7 @@ Understand the goal, audience, brand, service, and required user journey.
 ## 02  
 ### Structure
 
-Plan sections, content flow, layout direction, and conversion-focused page hierarchy.
+Plan page sections, content hierarchy, conversion flow, and responsive layout direction.
 
 </td>
 
@@ -633,16 +681,16 @@ Plan sections, content flow, layout direction, and conversion-focused page hiera
 ## 03  
 ### Build
 
-Create responsive pages, integrate tools, configure plugins, and implement clean UI.
+Create responsive pages, configure tools, integrate plugins, polish UI, and test functionality.
 
 </td>
 
 <td width="25%" align="center">
 
 ## 04  
-### Polish
+### Optimize
 
-Test responsiveness, fix issues, improve speed, optimize visuals, and refine the final experience.
+Improve performance, fix issues, refine visuals, test responsiveness, and prepare for launch.
 
 </td>
 </tr>
@@ -654,7 +702,7 @@ Test responsiveness, fix issues, improve speed, optimize visuals, and refine the
 
 <br>
 
-<!-- ========================= EDUCATION ========================= -->
+<!-- ======================= EDUCATION ======================= -->
 
 # ✦ 11 — Education
 
@@ -670,6 +718,10 @@ Test responsiveness, fix issues, improve speed, optimize visuals, and refine the
 
 <img src="https://img.shields.io/badge/Institute%20of%20Space%20Technology-020617?style=for-the-badge" />
 
+<br><br>
+
+<img src="https://img.shields.io/badge/Islamabad-Pakistan-22C55E?style=for-the-badge" />
+
 </td>
 
 <td width="65%" valign="top">
@@ -679,7 +731,7 @@ Test responsiveness, fix issues, improve speed, optimize visuals, and refine the
 **Institute of Space Technology, Islamabad**  
 📍 Pakistan  
 
-My academic background gave me a strong foundation in programming, databases, software concepts, logic building, and project-based technical learning.
+My academic background gave me a foundation in programming, databases, software concepts, problem-solving, logic building, and project-based technical learning.
 
 </td>
 </tr>
@@ -689,7 +741,7 @@ My academic background gave me a strong foundation in programming, databases, so
 
 <br>
 
-<!-- ========================= CERTIFICATIONS ========================= -->
+<!-- ======================= CERTIFICATIONS ======================= -->
 
 # ✦ 12 — Certifications & Learning Journey
 
@@ -714,7 +766,7 @@ My academic background gave me a strong foundation in programming, databases, so
 
 <br>
 
-<!-- ========================= CURRENT LEARNING ========================= -->
+<!-- ======================= ROADMAP ======================= -->
 
 # ✦ 13 — Current Learning Roadmap
 
@@ -745,7 +797,7 @@ My academic background gave me a strong foundation in programming, databases, so
 
 <br>
 
-<!-- ========================= GITHUB ANALYTICS ========================= -->
+<!-- ======================= GITHUB ANALYTICS ======================= -->
 
 # ✦ 14 — GitHub Intelligence
 
@@ -784,7 +836,7 @@ My academic background gave me a strong foundation in programming, databases, so
 
 <br>
 
-<!-- ========================= OPEN TO WORK ========================= -->
+<!-- ======================= OPEN TO WORK ======================= -->
 
 # ✦ 15 — Open To Opportunities
 
@@ -807,7 +859,7 @@ My academic background gave me a strong foundation in programming, databases, so
 
 <br>
 
-<!-- ========================= CONNECT ========================= -->
+<!-- ======================= CONTACT ======================= -->
 
 # ✦ 16 — Connect With Me
 
@@ -815,7 +867,7 @@ My academic background gave me a strong foundation in programming, databases, so
 
 ### Let’s build something clean, premium, and useful.
 
-<p align="center">
+<p>
   <a href="https://github.com/rabiyajeh">
     <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -836,24 +888,16 @@ My academic background gave me a strong foundation in programming, databases, so
   </a>
 </p>
 
-</div>
-
----
-
 <br>
-
-<div align="center">
-
-## ✦ Developer Note
 
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
 
-<br>
+<br><br>
 
 ### `Clean structure. Premium design. Practical functionality. Continuous growth.`
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E879F9,35:7C3AED,70:312E81,100:020617&height=130&section=footer" />
-
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,25:E879F9,55:7C3AED,80:111827,100:020617&height=140&section=footer" />
+</p>
