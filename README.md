@@ -1,31 +1,31 @@
-<!-- ========================= RABBIYA JEHANGIR | PREMIUM GITHUB README ========================= -->
+<!-- ========================= RABBIYA JEHANGIR | PREMIUM TECH README ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:7F00FF&height=260&section=header&text=Rabbiya%20Jehangir&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=WordPress%20Developer%20%7C%20Web%20Developer%20%7C%20Android%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=17" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:312E81,70:7C3AED,100:E879F9&height=280&section=header&text=Rabbiya%20Jehangir&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=WordPress%20Developer%20%7C%20Web%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Digital%20Experience%20Builder&descAlignY=58&descSize=17" />
 </p>
 
 <div align="center">
 
-# ✦ Hi, I'm Rabbiya Jehangir 👋
+# ✦ Rabbiya Jehangir
 
-### `Building premium web experiences with creativity, clean code, and a touch of AI.`
+### `I build premium, responsive, business-ready websites with clean structure, modern UI, and practical functionality.`
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=950&lines=WordPress+%26+WooCommerce+Developer;Frontend+%26+Full-Stack+Development+Learner;Android+App+Developer;Python+%7C+AI+%7C+LLMs+Explorer;Building+Real+World+Digital+Products;Turning+Ideas+Into+Polished+Web+Experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E879F9&center=true&vCenter=true&width=980&lines=WordPress+%26+WooCommerce+Developer;Premium+Website+Builder;Frontend+%26+CMS+Developer;Python+%7C+AI+%7C+LLMs+Learner;Building+Clean+Digital+Experiences;Turning+Ideas+Into+Real+Web+Products" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rabiyajeh&label=PROFILE+VIEWS&color=8b5cf6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/rabiyajeh?style=for-the-badge&color=111827&labelColor=7c3aed" />
-  <img src="https://img.shields.io/github/stars/rabiyajeh?style=for-the-badge&color=111827&labelColor=7c3aed" />
+  <img src="https://komarev.com/ghpvc/?username=rabiyajeh&label=PROFILE+VIEWS&color=7c3aed&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/rabiyajeh?style=for-the-badge&color=020617&labelColor=7c3aed" />
+  <img src="https://img.shields.io/github/stars/rabiyajeh?style=for-the-badge&color=020617&labelColor=7c3aed" />
 </p>
 
 <p align="center">
   <a href="https://rabbiya-web-gallery.com/">
-    <img src="https://img.shields.io/badge/Portfolio-7F00FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://github.com/rabiyajeh">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/rabbiya-jehangir-8b0a831ab">
     <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -35,9 +35,6 @@
   </a>
   <a href="https://www.upwork.com/freelancers/rabbiyaj">
     <img src="https://img.shields.io/badge/Upwork-15803D?style=for-the-badge&logo=upwork&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/rabiyajeh">
-    <img src="https://img.shields.io/badge/X%20%2F%20Twitter-0F172A?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://learn-frontenddev.blogspot.com/">
     <img src="https://img.shields.io/badge/Blog-F97316?style=for-the-badge&logo=blogger&logoColor=white" />
@@ -50,60 +47,55 @@
 
 <br>
 
-<!-- ========================= PROFILE SNAPSHOT ========================= -->
+<!-- ========================= EXECUTIVE SNAPSHOT ========================= -->
 
-# ✦ 01 — Developer Profile
+# ✦ 01 — Professional Snapshot
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="55%" valign="top">
 
-## 🧠 About Me
+## 👩‍💻 Developer Identity
 
 ```yaml
 name: Rabbiya Jehangir
 location: Rawalpindi, Pakistan
 education: BS Computer Engineering
 university: Institute of Space Technology, Islamabad
-primary_role: WordPress Developer
-secondary_roles:
-  - Web Developer
-  - Android Developer
-  - Full-Stack Development Learner
-  - AI Enthusiast
-current_focus:
-  - WordPress & WooCommerce
-  - PHP & MySQL
-  - Python for AI
-  - LLMs & RAG concepts
-  - Modern full-stack applications
-interests:
-  - EdTech
-  - Healthcare AI
-  - SaaS products
-  - Automation tools
-  - Premium web experiences
+
+core_role: WordPress Developer
+focus_area:
+  - Premium business websites
+  - WordPress & WooCommerce development
+  - Responsive frontend experiences
+  - Website redesigns and landing pages
+  - SEO-friendly and performance-focused websites
+
+currently_learning:
+  - Python
+  - AI & LLMs
+  - RAG concepts
+  - FastAPI
+  - Next.js
+  - AI-powered web products
 ```
-
-### ✨ Who I Am
-
-I’m a Computer Engineering graduate and developer from **Rawalpindi, Pakistan**, focused on building clean, responsive, and business-ready digital products.  
-
-My strongest area is **WordPress development**, especially **Elementor, WooCommerce, PHP, MySQL, website redesign, landing pages, speed optimization, and business websites**.
-
-I’m also expanding into **Python, AI, LLMs, RAG, automation, and modern full-stack development** so I can build smarter and more useful products.
 
 </td>
 
-<td width="42%" valign="top" align="center">
+<td width="45%" valign="top">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation"/>
+## ✦ What I Bring
 
-### ⚡ Current Mission
+- Premium website design sense  
+- WordPress and WooCommerce experience  
+- Clean, responsive frontend implementation  
+- Business-focused website structure  
+- Practical understanding of client needs  
+- Growing focus on AI-powered digital products  
 
-> Creating websites that feel premium,  
-> solving real problems with code,  
-> and growing into an AI-powered developer.
+<br>
+
+> I like building websites that do not just look good — they feel clear, useful, polished, and ready for real users.
 
 </td>
 </tr>
@@ -113,15 +105,53 @@ I’m also expanding into **Python, AI, LLMs, RAG, automation, and modern full-s
 
 <br>
 
-<!-- ========================= TECH STACK ========================= -->
+<!-- ========================= BRAND STATEMENT ========================= -->
 
-# ✦ 02 — Tech Arsenal
+# ✦ 02 — My Developer Brand
 
 <div align="center">
 
-## ⚙️ Main Stack
+<table>
+<tr>
+<td width="33%" align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,kotlin,react,nextjs,nodejs,laravel,wordpress,bootstrap,tailwind,mysql,mongodb,firebase,supabase,git,github,docker,postman,figma,vscode,androidstudio&theme=dark" />
+## ✨ Design Sense
+
+I care about layout, spacing, visual balance, typography, sections, and user experience.
+
+</td>
+<td width="33%" align="center">
+
+## ⚙️ Functional Build
+
+I focus on responsive structure, working forms, clean pages, plugin setup, and practical business needs.
+
+</td>
+<td width="33%" align="center">
+
+## 🚀 Growth Mindset
+
+I am actively upgrading toward Python, AI, LLMs, automation, and modern full-stack workflows.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<br>
+
+<!-- ========================= TECH STACK ========================= -->
+
+# ✦ 03 — Tech Command Center
+
+<div align="center">
+
+## ⚙️ Core Technologies
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,react,nextjs,nodejs,laravel,wordpress,bootstrap,tailwind,mysql,mongodb,firebase,supabase,git,github,docker,postman,figma,vscode&theme=dark" />
 
 </div>
 
@@ -129,18 +159,20 @@ I’m also expanding into **Python, AI, LLMs, RAG, automation, and modern full-s
 
 <div align="center">
 
-## 🧩 Specialization Badges
+## 🧩 Specialized Skills
 
 <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
 <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" />
+<img src="https://img.shields.io/badge/ACF-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Contact%20Form%207-0F172A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RankMath%20SEO-22C55E?style=for-the-badge" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SEO-00C853?style=for-the-badge" />
+<img src="https://img.shields.io/badge/REST%20API-F97316?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Core%20Web%20Vitals-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/AI%20%26%20LLMs-6D28D9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20%26%20LLMs-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-E879F9?style=for-the-badge" />
 
 </div>
 
@@ -150,20 +182,60 @@ I’m also expanding into **Python, AI, LLMs, RAG, automation, and modern full-s
 
 <!-- ========================= EXPERTISE MATRIX ========================= -->
 
-# ✦ 03 — Expertise Matrix
+# ✦ 04 — Expertise Matrix
 
 <div align="center">
 
-| Category | Skills & Tools |
-|---|---|
-| **Frontend Development** | HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS, Responsive Design |
-| **WordPress Development** | WordPress, Elementor, WooCommerce, ACF, Contact Form 7, RankMath SEO |
-| **Backend Development** | PHP, Laravel Basics, Node.js Basics, REST APIs, Authentication |
-| **Database Systems** | MySQL, MongoDB, Firebase, Supabase |
-| **Android Development** | Java, Kotlin, Firebase, SQLite, Android Studio |
-| **AI Learning Track** | Python, Prompt Engineering, LLMs, RAG Concepts, AI Product Ideas |
-| **Tools & Workflow** | Git, GitHub, VS Code, Postman, Docker, Figma, Hostinger, cPanel |
-| **Website Optimization** | Speed Optimization, SEO Basics, Security, Backups, Core Web Vitals |
+| Domain | Tools / Skills | What I Build |
+|---|---|---|
+| **WordPress Development** | WordPress, Elementor, WooCommerce, ACF, CF7 | Business websites, landing pages, service sites, stores |
+| **Frontend Development** | HTML, CSS, JavaScript, Bootstrap, Tailwind | Responsive sections, modern layouts, interactive UI |
+| **Backend Basics** | PHP, Laravel basics, Node.js basics, REST APIs | Dynamic features, integrations, forms, backend flows |
+| **Database & Storage** | MySQL, MongoDB, Firebase, Supabase | Data-driven web features and structured content |
+| **Website Optimization** | SEO, speed optimization, Core Web Vitals, caching | Faster, cleaner, more search-friendly websites |
+| **AI Learning Track** | Python, LLMs, RAG, prompt engineering | AI learning platforms, automation ideas, smart tools |
+| **Tools & Workflow** | Git, GitHub, VS Code, Postman, Figma, cPanel, Hostinger | Development, deployment, debugging, and client delivery |
+
+</div>
+
+---
+
+<br>
+
+<!-- ========================= IMPACT CARDS ========================= -->
+
+# ✦ 05 — Impact Highlights
+
+<div align="center">
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+## 40+
+Websites / pages worked on
+
+</td>
+<td width="25%" align="center">
+
+## CMS
+WordPress-focused development
+
+</td>
+<td width="25%" align="center">
+
+## SEO
+Performance-aware builds
+
+</td>
+<td width="25%" align="center">
+
+## AI
+Currently upgrading into AI web products
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -173,51 +245,47 @@ I’m also expanding into **Python, AI, LLMs, RAG, automation, and modern full-s
 
 <!-- ========================= FEATURED AI PROJECT ========================= -->
 
-# ✦ 04 — Featured AI Project
+# ✦ 06 — Featured AI Product Direction
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="58%" valign="top">
 
 ## 🤖 AI PyTutor / Py AI Mentor
 
-**AI PyTutor** is an AI-powered learning platform concept designed to help students learn **Python, AI, ML, NLP, LLMs, RAG, data science, and programming fundamentals** through guided roadmaps, project-based learning, motivation, and smart learning support.
+**AI PyTutor** is an AI-powered learning platform idea focused on helping students learn **Python, AI, ML, NLP, LLMs, RAG, data science, and programming fundamentals** through guided roadmaps, project-based learning, and smart support.
 
-### ✨ Key Ideas
+### Premium Feature Direction
 
 - Personalized AI learning roadmap  
-- Python, AI, ML, NLP, DL, and LLM learning paths  
+- Python and AI learning paths  
 - Homework and project analyzer  
-- Funny motivation quotes for learners  
+- Motivation-based learner experience  
 - Beginner-to-advanced project guidance  
-- Interactive learning experience  
 - AI mentor style support  
-
-### 🛠️ Tech Focus
-
-`Python` `AI` `LLMs` `Prompt Engineering` `Web Development` `Learning Platform`
+- Practical learning instead of boring theory  
 
 🔗 **Live Website:** https://ai-pytutor.com/
 
 </td>
 
-<td width="45%" valign="top" align="center">
+<td width="42%" valign="top" align="center">
 
 <br>
 
-<img src="https://img.shields.io/badge/AI-PyTutor-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20Learning%20Platform-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
 <br><br>
-<img src="https://img.shields.io/badge/EdTech-AI%20Learning%20Platform-15803D?style=for-the-badge" />
+<img src="https://img.shields.io/badge/EdTech%20Product-15803D?style=for-the-badge" />
 <br><br>
-<img src="https://img.shields.io/badge/Python%20%7C%20AI%20%7C%20LLMs-Learning-F97316?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Python%20%7C%20AI%20%7C%20LLMs-F97316?style=for-the-badge" />
 <br><br>
-<img src="https://img.shields.io/badge/Project%20Type-Smart%20Learning%20Tool-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Smart%20Learning%20Experience-2563EB?style=for-the-badge" />
 
 <br><br>
 
-### 🎯 Goal
+### Product Vision
 
-> Make AI learning easier, practical, fun, and project-focused.
+> Make AI learning practical, guided, fun, and project-based.
 
 </td>
 </tr>
@@ -227,11 +295,11 @@ I’m also expanding into **Python, AI, LLMs, RAG, automation, and modern full-s
 
 <br>
 
-<!-- ========================= PROJECTS ========================= -->
+<!-- ========================= PREMIUM PROJECT SHOWCASE ========================= -->
 
-# ✦ 05 — Premium Project Showcase
+# ✦ 07 — Premium Project Showcase
 
-## 🌟 Featured Digital Work
+## 🌟 Selected Work
 
 <table>
 <tr>
@@ -239,15 +307,15 @@ I’m also expanding into **Python, AI, LLMs, RAG, automation, and modern full-s
 
 ## 💼 Personal Portfolio
 
-A modern developer portfolio showcasing my work, skills, certifications, services, and personal brand.
+A polished developer portfolio showcasing my skills, services, projects, certifications, and developer identity.
 
 **Highlights**
 - Premium personal branding  
-- Project showcase  
-- Responsive sections  
-- Clean developer identity  
+- Clean project showcase  
+- Responsive structure  
+- Recruiter-friendly presentation  
 
-🔗 **Live Website:** https://rabbiya-web-gallery.com/
+🔗 **Live:** https://rabbiya-web-gallery.com/
 
 </td>
 
@@ -255,15 +323,15 @@ A modern developer portfolio showcasing my work, skills, certifications, service
 
 ## 🏢 ACRD Projects
 
-A professional business website designed for project/company presentation with a clean layout and modern structure.
+A professional business website created for clean company and project presentation.
 
 **Highlights**
-- Business-focused design  
-- Clean content sections  
-- Responsive UI  
-- Professional web presence  
+- Business-focused layout  
+- Clear content hierarchy  
+- Responsive pages  
+- Professional digital presence  
 
-🔗 **Live Website:** https://acrdprojects.com/
+🔗 **Live:** https://acrdprojects.com/
 
 </td>
 </tr>
@@ -273,15 +341,15 @@ A professional business website designed for project/company presentation with a
 
 ## 🟠 OrangeFlow365
 
-A modern business/service website built to present services in a clean, polished, and user-friendly way.
+A modern business/service website built with clean structure and professional service presentation.
 
 **Highlights**
-- Service-based layout  
-- Modern business design  
+- Service-focused content  
+- Clean visual sections  
+- Business-ready UI  
 - Responsive website  
-- Clean user flow  
 
-🔗 **Live Website:** https://orangeflow365.com/
+🔗 **Live:** https://orangeflow365.com/
 
 </td>
 
@@ -289,15 +357,15 @@ A modern business/service website built to present services in a clean, polished
 
 ## 💎 Crafted Bonds
 
-A feminine jewelry brand website for handmade and creative jewelry products.
+A feminine jewelry brand website focused on product presentation, brand feel, and elegant visuals.
 
 **Highlights**
-- Brand-focused website  
-- Elegant visual direction  
-- Product presentation  
+- Brand-focused layout  
+- Elegant product sections  
 - Creative business identity  
+- Polished visual direction  
 
-🔗 **Live Website:** https://craftedbonds.com/
+🔗 **Live:** https://craftedbonds.com/
 
 </td>
 </tr>
@@ -307,15 +375,15 @@ A feminine jewelry brand website for handmade and creative jewelry products.
 
 ## 🎨 House of Paints
 
-A professional website for a paints and product-focused business.
+A business/product website designed for clear product and service visibility.
 
 **Highlights**
-- Product/business presentation  
-- Clean structure  
-- Responsive website  
-- Service visibility  
+- Product-focused presentation  
+- Structured content  
+- Responsive layout  
+- Clean brand experience  
 
-🔗 **Live Website:** https://house-of-paints.com/
+🔗 **Live:** https://house-of-paints.com/
 
 </td>
 
@@ -323,15 +391,15 @@ A professional website for a paints and product-focused business.
 
 ## 🧭 Path Guide Hub
 
-A clean informational/business website with structured content and responsive design.
+An informational website with simple navigation, clean structure, and readable content presentation.
 
 **Highlights**
 - Informational layout  
 - Easy navigation  
-- Business-ready design  
+- Business-ready structure  
 - Responsive interface  
 
-🔗 **Live Website:** http://pathguidehub.com/
+🔗 **Live:** http://pathguidehub.com/
 
 </td>
 </tr>
@@ -341,15 +409,15 @@ A clean informational/business website with structured content and responsive de
 
 ## 🏘️ Zoya Venture Real Estate
 
-A real estate website focused on property presentation, lead capture, and professional branding.
+A real estate website focused on property presentation, professional branding, and lead generation.
 
 **Highlights**
-- Real estate business website  
+- Real estate website structure  
 - Property-focused sections  
-- Lead generation approach  
-- Clean design system  
+- Lead capture approach  
+- Clean business design  
 
-🔗 **Live Website:** https://zoyaventurerealestate.com/
+🔗 **Live:** https://zoyaventurerealestate.com/
 
 </td>
 
@@ -357,15 +425,15 @@ A real estate website focused on property presentation, lead capture, and profes
 
 ## 🌍 Interprenet
 
-A professional service-based website designed for business presentation and digital credibility.
+A professional service website built for credibility, business presentation, and structured service content.
 
 **Highlights**
-- Service website  
-- Professional structure  
+- Service-based layout  
+- Professional design  
 - Responsive UI  
-- Clean content hierarchy  
+- Clean content flow  
 
-🔗 **Live Website:** https://interprenet.net/
+🔗 **Live:** https://interprenet.net/
 
 </td>
 </tr>
@@ -375,15 +443,15 @@ A professional service-based website designed for business presentation and digi
 
 ## 🧑‍💻 Xzlon
 
-A software house website focused on AI, web, mobile development, internships, and services.
+A software house website focused on AI, web development, mobile services, internships, and company branding.
 
 **Highlights**
-- Software house branding  
-- Services section  
+- Tech business identity  
+- Services showcase  
 - Internship structure  
-- Tech-focused layout  
+- Software house layout  
 
-🔗 **Live Website:** https://xzlon.com/
+🔗 **Live:** https://xzlon.com/
 
 </td>
 
@@ -391,15 +459,15 @@ A software house website focused on AI, web, mobile development, internships, an
 
 ## 🛒 Laravel E-Commerce App
 
-A full-stack e-commerce application built with Laravel and MySQL.
+A Laravel and MySQL based e-commerce project with product management, cart, checkout, and backend functionality.
 
 **Highlights**
 - Product management  
-- Cart system  
-- Checkout flow  
-- Backend functionality  
+- Cart and checkout flow  
+- Backend logic  
+- Laravel structure  
 
-🔗 **GitHub Repo:** https://github.com/rabiyajeh/Laravel-Ecommerce_App
+🔗 **GitHub:** https://github.com/rabiyajeh/Laravel-Ecommerce_App
 
 </td>
 </tr>
@@ -407,31 +475,30 @@ A full-stack e-commerce application built with Laravel and MySQL.
 <tr>
 <td width="50%" valign="top">
 
-## 🏥 MedicQuick — Healthcare App
+## 🏥 MedicQuick — Healthcare Project
 
-A healthcare-focused Streamlit project created for a hackathon.
+A healthcare-focused Streamlit project created for a hackathon with user interaction and data visualization.
 
 **Highlights**
 - Healthcare assistant concept  
+- Streamlit interface  
 - Data visualization  
-- Symptom-related user interaction  
-- Streamlit-based interface  
+- Practical AI/healthcare direction  
 
-🔗 **GitHub Repo:** https://github.com/rabiyajeh/Falcon-Hackathon-Healthcare-app
+🔗 **GitHub:** https://github.com/rabiyajeh/Falcon-Hackathon-Healthcare-app
 
 </td>
 
 <td width="50%" valign="top">
 
-## 📚 Blog & Learning Notes
+## ✍️ Learn Frontend Dev
 
-A beginner-friendly development blog where I share learning notes and tutorials.
+A beginner-friendly blog where I share development notes, frontend basics, and learning content.
 
 **Topics**
 - HTML basics  
 - Frontend development  
-- Android development  
-- Firebase integration  
+- Firebase basics  
 - Beginner coding guides  
 
 🔗 **Blog:** https://learn-frontenddev.blogspot.com/
@@ -444,13 +511,13 @@ A beginner-friendly development blog where I share learning notes and tutorials.
 
 <br>
 
-<!-- ========================= CLIENT WEBSITES TABLE ========================= -->
+<!-- ========================= WEBSITE DIRECTORY ========================= -->
 
-# ✦ 06 — Live Websites Directory
+# ✦ 08 — Live Website Directory
 
 <div align="center">
 
-| Project | Type | Link |
+| Project | Category | Live Link |
 |---|---|---|
 | **AI PyTutor** | AI Learning Platform | https://ai-pytutor.com/ |
 | **Personal Portfolio** | Developer Portfolio | https://rabbiya-web-gallery.com/ |
@@ -469,65 +536,65 @@ A beginner-friendly development blog where I share learning notes and tutorials.
 
 <br>
 
-<!-- ========================= ANDROID PROJECTS ========================= -->
+<!-- ========================= SERVICES ========================= -->
 
-# ✦ 07 — Android & App Development
+# ✦ 09 — What I Can Build
+
+<div align="center">
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-## 📚 Be Productive
+## 🌐 Business Websites
 
-An e-learning and productivity-focused Android application created as part of my app development journey.
-
-**Focus**
-- Learning flow  
-- Productivity concept  
-- Android UI  
-- App logic  
+Professional, responsive websites for companies, services, portfolios, and brands.
 
 </td>
 
 <td width="33%" valign="top">
 
-## 🍔 Restaurant Food Ordering App
+## 🛒 WooCommerce Stores
 
-An Android food ordering application concept focused on order flow and user-friendly interaction.
-
-**Focus**
-- Food ordering screens  
-- User interaction  
-- Mobile app layout  
-- Android development  
+Product pages, shop setup, checkout flow, store customization, and e-commerce structure.
 
 </td>
 
 <td width="33%" valign="top">
 
-## 📖 Book Manager
+## ✨ Landing Pages
 
-A simple Android-based record management application using local app logic and storage concepts.
+Modern, conversion-focused landing pages with clean sections and strong visual hierarchy.
 
-**Focus**
-- Book records  
-- Data handling  
-- Local storage  
-- Basic CRUD concepts  
+</td>
+</tr>
+
+<tr>
+<td width="33%" valign="top">
+
+## ⚙️ WordPress Customization
+
+Elementor layouts, plugin setup, forms, redirects, styling, bug fixing, and content structure.
+
+</td>
+
+<td width="33%" valign="top">
+
+## 🚀 Website Optimization
+
+Speed, SEO basics, image optimization, caching, Core Web Vitals, and performance improvements.
+
+</td>
+
+<td width="33%" valign="top">
+
+## 🤖 AI Web Ideas
+
+AI tutor concepts, learning platforms, roadmap systems, prompt-powered features, and automation ideas.
 
 </td>
 </tr>
 </table>
-
-<div align="center">
-
-### Android Tech Stack
-
-<img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Kotlin-7C3AED?style=for-the-badge&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-F59E0B?style=for-the-badge&logo=firebase&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-2563EB?style=for-the-badge&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/Android%20Studio-15803D?style=for-the-badge&logo=androidstudio&logoColor=white" />
 
 </div>
 
@@ -535,22 +602,51 @@ A simple Android-based record management application using local app logic and s
 
 <br>
 
-<!-- ========================= SERVICES ========================= -->
+<!-- ========================= WORK PROCESS ========================= -->
 
-# ✦ 08 — What I Can Build
+# ✦ 10 — My Build Process
 
 <div align="center">
 
-| Service | Description |
-|---|---|
-| **WordPress Websites** | Business websites, portfolios, landing pages, blogs, and service websites |
-| **WooCommerce Stores** | Product pages, shop setup, checkout flow, and store customization |
-| **Website Redesign** | Modern UI upgrades, responsive improvements, and premium section redesigns |
-| **Speed Optimization** | Image optimization, caching, Core Web Vitals, and performance improvements |
-| **Bug Fixing** | Layout issues, plugin conflicts, forms, redirects, and technical fixes |
-| **Landing Pages** | Conversion-focused sections for businesses, services, and campaigns |
-| **Android Apps** | Student projects, Firebase apps, and simple mobile application concepts |
-| **AI Product Ideas** | AI tutor concepts, learning assistants, roadmap systems, and automation ideas |
+<table>
+<tr>
+<td width="25%" align="center">
+
+## 01  
+### Discover
+
+Understand the goal, audience, brand, service, and required user journey.
+
+</td>
+
+<td width="25%" align="center">
+
+## 02  
+### Structure
+
+Plan sections, content flow, layout direction, and conversion-focused page hierarchy.
+
+</td>
+
+<td width="25%" align="center">
+
+## 03  
+### Build
+
+Create responsive pages, integrate tools, configure plugins, and implement clean UI.
+
+</td>
+
+<td width="25%" align="center">
+
+## 04  
+### Polish
+
+Test responsiveness, fix issues, improve speed, optimize visuals, and refine the final experience.
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -560,13 +656,19 @@ A simple Android-based record management application using local app logic and s
 
 <!-- ========================= EDUCATION ========================= -->
 
-# ✦ 09 — Education
+# ✦ 11 — Education
 
 <table>
 <tr>
 <td width="35%" valign="top" align="center">
 
+<br>
+
 <img src="https://img.shields.io/badge/BS%20Computer%20Engineering-7C3AED?style=for-the-badge" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Institute%20of%20Space%20Technology-020617?style=for-the-badge" />
 
 </td>
 
@@ -577,7 +679,7 @@ A simple Android-based record management application using local app logic and s
 **Institute of Space Technology, Islamabad**  
 📍 Pakistan  
 
-I studied computer engineering with exposure to programming, software development, databases, electronics, embedded systems, and project-based technical learning.
+My academic background gave me a strong foundation in programming, databases, software concepts, logic building, and project-based technical learning.
 
 </td>
 </tr>
@@ -589,7 +691,7 @@ I studied computer engineering with exposure to programming, software developmen
 
 <!-- ========================= CERTIFICATIONS ========================= -->
 
-# ✦ 10 — Certifications & Learning Journey
+# ✦ 12 — Certifications & Learning Journey
 
 <div align="center">
 
@@ -602,9 +704,9 @@ I studied computer engineering with exposure to programming, software developmen
 | **Foundational C# with Microsoft** | C# programming fundamentals |
 | **Python Primers** | Python basics |
 | **Machine Learning with Python** | ML fundamentals |
-| **Data Analytics & Business Intelligence** | Data concepts and BI basics |
-| **MATLAB Onramp** | MATLAB basics |
-| **AI Sign Language App Development** | AI-based application learning |
+| **Data Analytics & BI** | Data and analytics basics |
+| **MATLAB Onramp** | MATLAB fundamentals |
+| **AI Sign Language App Development** | AI-based product learning |
 
 </div>
 
@@ -614,7 +716,7 @@ I studied computer engineering with exposure to programming, software developmen
 
 <!-- ========================= CURRENT LEARNING ========================= -->
 
-# ✦ 11 — Current Learning Roadmap
+# ✦ 13 — Current Learning Roadmap
 
 ```text
 01 → Python for AI and automation
@@ -622,19 +724,20 @@ I studied computer engineering with exposure to programming, software developmen
 03 → LLMs and prompt engineering
 04 → RAG-based AI applications
 05 → Supabase and modern databases
-06 → Next.js for full-stack apps
+06 → Next.js for full-stack web products
 07 → LangChain and AI workflows
-08 → Deployment, Docker, and cloud basics
+08 → Docker and deployment basics
 09 → Real-world AI product development
 10 → Better system design and scalable code
 ```
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Currently%20Learning-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Currently%20Learning-AI%20%26%20LLMs-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Currently%20Learning-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Currently%20Learning-Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Learning-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Learning-AI%20%26%20LLMs-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Learning-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Learning-Next.js-020617?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Learning-Supabase-15803D?style=for-the-badge&logo=supabase&logoColor=white" />
 
 </div>
 
@@ -642,57 +745,9 @@ I studied computer engineering with exposure to programming, software developmen
 
 <br>
 
-<!-- ========================= WORKFLOW ========================= -->
-
-# ✦ 12 — My Development Workflow
-
-<table>
-<tr>
-<td width="25%" align="center">
-
-## 01  
-### Understand
-
-I start by understanding the goal, audience, business need, and required user flow.
-
-</td>
-
-<td width="25%" align="center">
-
-## 02  
-### Design
-
-I focus on clean layout, responsive structure, readable content, and modern visuals.
-
-</td>
-
-<td width="25%" align="center">
-
-## 03  
-### Build
-
-I develop using clean structure, reusable sections, and practical implementation.
-
-</td>
-
-<td width="25%" align="center">
-
-## 04  
-### Improve
-
-I test, fix bugs, optimize speed, and polish the final experience.
-
-</td>
-</tr>
-</table>
-
----
-
-<br>
-
 <!-- ========================= GITHUB ANALYTICS ========================= -->
 
-# ✦ 13 — GitHub Intelligence
+# ✦ 14 — GitHub Intelligence
 
 <div align="center">
 
@@ -729,66 +784,22 @@ I test, fix bugs, optimize speed, and polish the final experience.
 
 <br>
 
-<!-- ========================= BLOG ========================= -->
-
-# ✦ 14 — Blog & Writing
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-## ✍️ Learn Frontend Dev
-
-I share beginner-friendly notes, coding concepts, and development learning content.
-
-### Topics I Like Writing About
-
-- HTML basics and syntax  
-- Frontend development  
-- Android development  
-- Firebase integration  
-- App optimization  
-- WordPress development  
-- Beginner coding guides  
-
-🔗 **Blog:** https://learn-frontenddev.blogspot.com/
-
-</td>
-
-<td width="40%" align="center" valign="top">
-
-<br>
-
-<img src="https://img.shields.io/badge/Blog-Learn%20Frontend%20Dev-F97316?style=for-the-badge&logo=blogger&logoColor=white" />
-
-<br><br>
-
-> Learning is better when it is simple, practical, and beginner-friendly.
-
-</td>
-</tr>
-</table>
-
----
-
-<br>
-
 <!-- ========================= OPEN TO WORK ========================= -->
 
 # ✦ 15 — Open To Opportunities
 
 <div align="center">
 
-| Opportunity Type | Status |
+| Opportunity | Status |
 |---|---|
 | **WordPress Development Projects** | ✅ Open |
 | **WooCommerce Store Projects** | ✅ Open |
-| **Landing Page Design & Development** | ✅ Open |
-| **Business Website Redesigns** | ✅ Open |
+| **Business Website Design & Development** | ✅ Open |
+| **Landing Page Design** | ✅ Open |
+| **Website Redesign & Optimization** | ✅ Open |
 | **Junior Web Developer Roles** | ✅ Open |
 | **AI Internship Opportunities** | ✅ Open |
 | **Remote Freelance Projects** | ✅ Open |
-| **Full-Stack / AI Product Learning Roles** | ✅ Open |
 
 </div>
 
@@ -802,11 +813,11 @@ I share beginner-friendly notes, coding concepts, and development learning conte
 
 <div align="center">
 
-### 🤝 Let’s build something meaningful, polished, and useful.
+### Let’s build something clean, premium, and useful.
 
 <p align="center">
   <a href="https://github.com/rabiyajeh">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/rabbiya-jehangir-8b0a831ab">
     <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -820,9 +831,6 @@ I share beginner-friendly notes, coding concepts, and development learning conte
   <a href="https://rabbiya-web-gallery.com/">
     <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://twitter.com/rabiyajeh">
-    <img src="https://img.shields.io/badge/X%20%2F%20Twitter-0F172A?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
   <a href="https://learn-frontenddev.blogspot.com/">
     <img src="https://img.shields.io/badge/Blog-F97316?style=for-the-badge&logo=blogger&logoColor=white" />
   </a>
@@ -834,20 +842,18 @@ I share beginner-friendly notes, coding concepts, and development learning conte
 
 <br>
 
-<!-- ========================= FUN SECTION ========================= -->
-
 <div align="center">
 
-## ✦ Developer Mood
+## ✦ Developer Note
 
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
 
 <br>
 
-### ⭐ `I love turning ideas into polished digital experiences with creativity, logic, and heart.`
+### `Clean structure. Premium design. Practical functionality. Continuous growth.`
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:302B63,100:0F0C29&height=130&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E879F9,35:7C3AED,70:312E81,100:020617&height=130&section=footer" />
 
 </div>
