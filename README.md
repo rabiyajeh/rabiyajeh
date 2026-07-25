@@ -1,15 +1,10 @@
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:312E81,65:7C3AED,100:22D3EE&height=240&section=header&text=Rabbiya%20Jehangir&fontSize=52&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36&desc=Computer%20Engineer%20%E2%80%A2%20AI%20%26%20Computer%20Vision%20Builder%20%E2%80%A2%20Creative%20Web%20Developer&descAlignY=58&descSize=16"
-    alt="Rabbiya Jehangir — Computer Engineer, AI and Computer Vision Builder, Creative Web Developer"
-  />
-</p>
-
 <div align="center">
 
-# Hi, I'm Rabbiya 👩‍💻
+<sup>COMPUTER ENGINEER · CREATIVE DEVELOPER · AI EXPLORER</sup>
 
-### I turn ambitious ideas into intelligent, interactive, and production-ready digital products.
+# Rabbiya Jehangir 👩‍💻
+
+### Engineering intelligent interfaces for humans—not just screens.
 
 <img
   src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=19&pause=900&color=A78BFA&center=true&vCenter=true&width=980&lines=Building+real-time+computer-vision+interfaces;Engineering+AI+experiments+for+clarity+and+reproducibility;Creating+immersive+3D+experiences+for+the+browser;Delivering+high-performance+WordPress+%26+WooCommerce+products"
@@ -26,7 +21,30 @@
 ![Location](https://img.shields.io/badge/BASED_IN-Rawalpindi%2C_Pakistan-22D3EE?style=flat-square&labelColor=020617)
 ![Status](https://img.shields.io/badge/OPEN_TO-AI_%7C_WEB_%7C_REMOTE_WORK-A78BFA?style=flat-square&labelColor=020617)
 
+<br />
+
+[`ABOUT`](#the-short-version) ·
+[`PROJECTS`](#flagship-work) ·
+[`EXPERIENCE`](#professional-journey) ·
+[`STACK`](#engineering-toolkit) ·
+[`ACTIVITY`](#github-signal) ·
+[`SNAKE`](#contribution-journey) ·
+[`CONTACT`](#lets-build-together)
+
 </div>
+
+---
+
+```yaml
+profile:
+  name: Rabbiya Jehangir
+  foundation: BS Computer Engineering
+  based_in: Rawalpindi, Pakistan
+  building: [creative AI, computer vision, interactive 3D, intelligent web products]
+  production: [React, TypeScript, Python, WordPress, WooCommerce]
+  principles: [human-centered, explainable, privacy-aware, performance-minded]
+  current_mode: shipping ambitious ideas
+```
 
 ---
 
