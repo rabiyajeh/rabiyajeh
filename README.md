@@ -6,7 +6,9 @@
 
 # Hi, I'm Rabbiya 👩‍💻✨
 
-### I build expressive web experiences where design, interaction, and intelligent technology meet.
+### I build intelligent, interactive products where AI, creative coding, and modern web engineering meet.
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=C026D3&center=true&vCenter=true&width=900&lines=Creative+AI+%26+Computer+Vision;Gesture-Controlled+Web+Experiences;Interactive+3D+with+Three.js;Python+%26+Explainable+AI;WordPress+%26+Full-Stack+Web+Development" alt="Animated areas of expertise" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rabbiya-web-gallery.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rabbiya-jehangir-8b0a831ab)
@@ -14,6 +16,9 @@
 [![Upwork](https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/rabbiyaj)
 
 ![Profile views](https://komarev.com/ghpvc/?username=rabiyajeh&label=PROFILE+VIEWS&color=7c3aed&style=flat-square)
+![Followers](https://img.shields.io/github/followers/rabiyajeh?style=flat-square&color=c026d3&labelColor=020617)
+![Repositories](https://img.shields.io/badge/Public_Repositories-46-38BDF8?style=flat-square&labelColor=020617)
+![Focus](https://img.shields.io/badge/Focus-Creative_AI-7C3AED?style=flat-square&labelColor=020617)
 
 </div>
 
@@ -23,13 +28,50 @@
 
 I'm a Computer Engineering graduate and developer from Rawalpindi, Pakistan. My background is in building polished, business-ready websites with WordPress, WooCommerce, PHP, JavaScript, and modern frontend tools.
 
-Today, I am expanding that foundation into **creative AI and interactive computing**—exploring computer vision, gesture-controlled interfaces, browser-based 3D experiences, explainable AI, and practical Python projects.
+Today, I am expanding that foundation into **creative AI and interactive computing**—building computer-vision interfaces, gesture-controlled experiences, browser-based 3D products, explainable experiments, and practical Python systems.
 
 - 🔭 Building playful, intelligent experiences with **React, TypeScript, Three.js, MediaPipe, and Python**
 - 🧠 Exploring **computer vision, human-computer interaction, AI, and computational neuroscience**
 - 🌐 Experienced in **WordPress, WooCommerce, Elementor, responsive UI, SEO, and performance**
 - 🎨 Interested in products that combine **strong engineering with memorable visual design**
 - 🤝 Open to creative development, web, AI, and remote freelance opportunities
+
+---
+
+## Current direction
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+### 👁️ Perception
+
+Real-time hand and face tracking with privacy-conscious, on-device inference.
+
+</td>
+<td width="25%" align="center">
+
+### 🕹️ Interaction
+
+Natural interfaces that turn human gestures into responsive digital controls.
+
+</td>
+<td width="25%" align="center">
+
+### 🧠 Intelligence
+
+Explainable AI, neural experiments, LLM applications, and learning systems.
+
+</td>
+<td width="25%" align="center">
+
+### ✨ Experience
+
+Immersive 3D environments, expressive motion, sound, and premium visual design.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -86,9 +128,31 @@ A growing collection of daily Python practice tasks and projects documenting con
 </tr>
 </table>
 
+<div align="center">
+
+[![AirDrive Racing](https://github-readme-stats.vercel.app/api/pin/?username=rabiyajeh&repo=AirDrive-Racing&theme=tokyonight&hide_border=true)](https://github.com/rabiyajeh/AirDrive-Racing)
+[![NeuroCircuit AI](https://github-readme-stats.vercel.app/api/pin/?username=rabiyajeh&repo=neurocircuit-ai&theme=tokyonight&hide_border=true)](https://github.com/rabiyajeh/neurocircuit-ai)
+
+</div>
+
 ---
 
-## Selected web work
+## From idea to working product
+
+```mermaid
+flowchart LR
+    A["Discover the problem"] --> B["Design the interaction"]
+    B --> C["Prototype the experience"]
+    C --> D["Build the system"]
+    D --> E["Test performance & usability"]
+    E --> F["Ship, learn & iterate"]
+```
+
+I enjoy working across the full product loop: shaping the concept, designing the interface, building the technical core, handling edge cases, and refining the final experience.
+
+---
+
+## Selected production web work
 
 | Project | Type | Link |
 |---|---|---|
@@ -102,7 +166,7 @@ A growing collection of daily Python practice tasks and projects documenting con
 
 ---
 
-## Technology
+## Engineering toolkit
 
 <div align="center">
 
@@ -133,18 +197,34 @@ AI product development   → useful learning tools, agents, LLMs, and RAG
 
 ---
 
-## GitHub activity
+## Development snapshot
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rabiyajeh&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabiyajeh&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rabiyajeh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabiyajeh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
 
 <br />
 
 <img src="https://streak-stats.demolab.com?user=rabiyajeh&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rabiyajeh&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
+
 </div>
+
+---
+
+## Open to
+
+| Opportunity | What I bring |
+|---|---|
+| **Creative developer roles** | Interaction design, experimental interfaces, 3D web, visual polish |
+| **AI and computer-vision projects** | Gesture experiences, Python experiments, explainable prototypes |
+| **Frontend and full-stack work** | React, TypeScript, APIs, databases, responsive product interfaces |
+| **WordPress and WooCommerce builds** | Business websites, stores, performance, SEO, and client delivery |
+| **Research and hackathon collaboration** | Fast prototyping, interdisciplinary thinking, technical storytelling |
 
 ---
 
