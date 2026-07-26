@@ -2,15 +2,15 @@
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,28:082F49,58:0F766E,82:6D28D9,100:020617&height=245&section=header&text=RABBIYA.AI&fontSize=58&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36&desc=Computer%20Engineer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Production%20Web%20Developer&descAlignY=58&descSize=18"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,24:082F49,48:0F766E,72:6D28D9,100:020617&height=265&section=header&text=RABBIYA.AI&fontSize=62&fontColor=F8FAFC&animation=fadeIn&fontAlignY=34&desc=AI%20Systems%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Data-Center-Aware%20Engineering&descAlignY=57&descSize=18"
   alt="Rabbiya Jehangir — Computer Engineer, AI Builder, and Production Web Developer"
 />
 
 <p>
+  <img src="https://img.shields.io/badge/NODE-RABBIYA--01-67E8F9?style=for-the-badge&labelColor=020617" alt="Rabbiya node" />
   <img src="https://img.shields.io/badge/SYSTEM-ONLINE-22C55E?style=for-the-badge&labelColor=020617" alt="System online" />
   <img src="https://img.shields.io/badge/LOCATION-Rawalpindi%2C_Pakistan-22D3EE?style=for-the-badge&labelColor=020617" alt="Location" />
-  <img src="https://img.shields.io/badge/FOCUS-AI_%2B_INFRASTRUCTURE-A78BFA?style=for-the-badge&labelColor=020617" alt="Focus" />
-  <img src="https://img.shields.io/badge/AVAILABLE-REMOTE_%26_COLLABORATION-F472B6?style=for-the-badge&labelColor=020617" alt="Availability" />
+  <img src="https://img.shields.io/badge/OPEN_TO-REMOTE_%26_COLLABORATION-F472B6?style=for-the-badge&labelColor=020617" alt="Availability" />
 </p>
 
 <img
@@ -29,6 +29,7 @@
 
 [`CHAT`](#ask-rabbiyaai) ·
 [`SYSTEM`](#system-profile) ·
+[`ENGINE`](#ai-conversation-engine) ·
 [`MODELS`](#deployed-projects) ·
 [`INFRA`](#infrastructure--data-center-layer) ·
 [`EXPERIENCE`](#experience-log) ·
@@ -36,11 +37,33 @@
 [`TELEMETRY`](#live-developer-telemetry) ·
 [`CONNECT`](#open-a-channel)
 
+<br />
+
+<table>
+<tr>
+<td align="center"><h2>03</h2><sub>INTELLIGENT SYSTEMS</sub></td>
+<td align="center"><h2>07</h2><sub>PRODUCTION NODES</sub></td>
+<td align="center"><h2>04</h2><sub>OPERATIONAL LAYERS</sub></td>
+<td align="center"><h2>01</h2><sub>COMPUTER ENGINEERING DEGREE</sub></td>
+</tr>
+</table>
+
+<sub><code>BOOT_ID: RJ-2026.07</code> · <code>INTERFACE: HUMAN-CENTERED</code> · <code>RUNTIME: CONTINUOUS-LEARNING</code></sub>
+
 </div>
 
 ---
 
 ## Ask Rabbiya.AI
+
+<div align="center">
+
+[![Vision mode](https://img.shields.io/badge/%2Fvision-COMPUTER_VISION-06B6D4?style=for-the-badge&labelColor=020617)](#deployed-projects)
+[![Chat mode](https://img.shields.io/badge/%2Fchat-AI_ASSISTANTS-8B5CF6?style=for-the-badge&labelColor=020617)](#ai-conversation-engine)
+[![Build mode](https://img.shields.io/badge/%2Fbuild-PRODUCTION_WEB-F472B6?style=for-the-badge&labelColor=020617)](#production-network)
+[![Infra mode](https://img.shields.io/badge/%2Finfra-DATA_CENTER-22C55E?style=for-the-badge&labelColor=020617)](#infrastructure--data-center-layer)
+
+</div>
 
 <table>
 <tr>
@@ -100,6 +123,20 @@ I think like a computer engineer and build like a product developer: **model beh
 </td>
 </tr>
 </table>
+
+<details>
+<summary><b>Try the command palette</b></summary>
+<br />
+
+| Command | Response route |
+|---|---|
+| <kbd>/about</kbd> | Computer-engineering foundation and operator profile |
+| <kbd>/models</kbd> | AI, computer-vision, research, and EdTech systems |
+| <kbd>/infra</kbd> | Hosting, delivery edge, security, reliability, and deployment |
+| <kbd>/experience</kbd> | Production work, leadership, and engineering progression |
+| <kbd>/connect</kbd> | Collaboration, opportunities, and direct channels |
+
+</details>
 
 ```console
 rabbiya@ai-node:~$ status --current
@@ -191,6 +228,92 @@ Hosting, DNS, SSL, CDN, caching, backups, malware recovery, monitoring, deployme
 </td>
 </tr>
 </table>
+
+---
+
+## AI conversation engine
+
+> An effective chatbot is not a text box attached to a model. It is a complete request-processing system with context, tools, safeguards, latency limits, and measurable output quality.
+
+```mermaid
+flowchart TB
+    U["User intent"] --> UX["Conversational interface"]
+    UX --> ORC["Prompt & tool orchestration"]
+    ORC --> LLM["Language / vision model"]
+    ORC --> CTX["Knowledge & application data"]
+    LLM --> GUARD["Validation · safety · fallbacks"]
+    CTX --> GUARD
+    GUARD --> OBS["Response · logs · improvement"]
+```
+
+<table>
+<tr>
+<td width="25%" valign="top">
+
+### `01 / INTERFACE`
+
+- Clear conversation flows
+- Helpful system feedback
+- Structured output
+- Accessible interaction
+- Human handoff paths
+
+</td>
+<td width="25%" valign="top">
+
+### `02 / INTELLIGENCE`
+
+- LLM API integration
+- Prompt architecture
+- Vision input pipelines
+- Tool/function routing
+- Model-aware fallbacks
+
+</td>
+<td width="25%" valign="top">
+
+### `03 / CONTEXT`
+
+- Retrieval concepts
+- Session state
+- Database integration
+- Provenance-aware answers
+- Privacy boundaries
+
+</td>
+<td width="25%" valign="top">
+
+### `04 / OPERATIONS`
+
+- Latency awareness
+- Error handling
+- Usage and cost thinking
+- Logs and evaluation
+- Secure deployment
+
+</td>
+</tr>
+</table>
+
+#### Chatbot systems I have contributed to
+
+| System | My contribution | Intelligence path | Product objective |
+|---|---|---|---|
+| **AI PyTutor** | Product direction, learning workflows, AI-assisted features, and learner-centered UX | LLM-assisted educational guidance | Make Python and AI learning easier to navigate |
+| **MediQuick** | Team-built hackathon product; integrated the Falcon-180B API and worked on core chatbot functionality | External LLM API integration | Support accessible healthcare conversation |
+| **Research assistants & prototypes** | Structured prompts, explainable outputs, reproducible workflows, and bounded system claims | Prompted AI plus evidence-aware interfaces | Turn complex technical work into clear interaction |
+
+```http
+POST /v1/rabbiya-ai/build
+Content-Type: application/json
+
+{
+  "problem": "Turn a useful idea into an intelligent product",
+  "inputs": ["human need", "data", "model", "interface", "infrastructure"],
+  "constraints": ["privacy", "latency", "cost", "reliability"],
+  "response_mode": "working_system"
+}
+```
 
 ---
 
@@ -337,6 +460,59 @@ A beginner-friendly product that connects structured roadmaps, explanations, pra
 
 > AI may be the visible interface, but dependable infrastructure is what keeps the experience alive.
 
+### Rack view · application to infrastructure
+
+<table>
+<tr>
+<th width="10%">UNIT</th>
+<th width="22%">SERVICE PLANE</th>
+<th>ENGINEERING SIGNAL</th>
+<th width="17%">STATUS</th>
+</tr>
+<tr>
+<td align="center"><code>U42</code></td>
+<td><b>AI inference</b></td>
+<td>LLM APIs · computer vision · model integration · edge-AI awareness</td>
+<td><img src="https://img.shields.io/badge/BUILDING-8B5CF6?style=flat-square" alt="Building" /></td>
+</tr>
+<tr>
+<td align="center"><code>U36</code></td>
+<td><b>Application services</b></td>
+<td>FastAPI · Flask · Node.js · PHP · REST APIs · authentication</td>
+<td><img src="https://img.shields.io/badge/HANDS_ON-22C55E?style=flat-square" alt="Hands-on" /></td>
+</tr>
+<tr>
+<td align="center"><code>U30</code></td>
+<td><b>Data services</b></td>
+<td>MySQL · PostgreSQL · MongoDB · Firebase · Supabase · caching</td>
+<td><img src="https://img.shields.io/badge/HANDS_ON-22C55E?style=flat-square" alt="Hands-on" /></td>
+</tr>
+<tr>
+<td align="center"><code>U24</code></td>
+<td><b>Delivery edge</b></td>
+<td>Cloudflare · CDN · DNS · SSL · caching · Core Web Vitals</td>
+<td><img src="https://img.shields.io/badge/PRODUCTION-06B6D4?style=flat-square" alt="Production" /></td>
+</tr>
+<tr>
+<td align="center"><code>U18</code></td>
+<td><b>Security & recovery</b></td>
+<td>Hardening · backups · malware cleanup · restoration · safe updates</td>
+<td><img src="https://img.shields.io/badge/PRODUCTION-06B6D4?style=flat-square" alt="Production" /></td>
+</tr>
+<tr>
+<td align="center"><code>U12</code></td>
+<td><b>Runtime operations</b></td>
+<td>cPanel · Hostinger · Vercel · logs · testing · deployment workflows</td>
+<td><img src="https://img.shields.io/badge/HANDS_ON-22C55E?style=flat-square" alt="Hands-on" /></td>
+</tr>
+<tr>
+<td align="center"><code>U06</code></td>
+<td><b>Compute foundation</b></td>
+<td>Linux · Docker · GPU inference · orchestration · observability</td>
+<td><img src="https://img.shields.io/badge/EXPANDING-F59E0B?style=flat-square" alt="Expanding" /></td>
+</tr>
+</table>
+
 ```mermaid
 flowchart TB
     U["Human request"] --> UI["Chatbot / Web interface"]
@@ -390,6 +566,62 @@ flowchart TB
 | Hosting panels, website deployment, DNS, SSL, CDN, caching, backups, security, performance, MySQL, and API integrations | Linux administration, Docker-based services, observability, scalable inference, GPU/edge deployment, and modern data-center architecture |
 
 This foundation helps me design AI applications with operational reality in mind: **latency, compute limits, data flow, failure recovery, security boundaries, and cost**.
+
+### Inference placement matrix
+
+| Decision signal | Browser / edge | Application server | Cloud / data center |
+|---|---|---|---|
+| **Best for** | Private, immediate interaction | Business logic and controlled APIs | Larger models and scalable services |
+| **My examples** | MediaPipe gesture processing | WordPress/PHP, FastAPI, Node services | LLM APIs, hosted data, CDN delivery |
+| **Primary concern** | Device capability and frame rate | Reliability, security, and integration | Latency, cost, scaling, and observability |
+| **Design response** | Local processing and quality controls | Validation, caching, fallbacks, logging | Model selection, quotas, monitoring, recovery |
+
+### Reliability control plane
+
+<table>
+<tr>
+<td width="25%" valign="top">
+
+#### `PERFORMANCE`
+
+Core Web Vitals  
+Asset optimization  
+Cache design  
+Database awareness
+
+</td>
+<td width="25%" valign="top">
+
+#### `SECURITY`
+
+SSL and DNS hygiene  
+Access boundaries  
+Malware recovery  
+Safe dependency updates
+
+</td>
+<td width="25%" valign="top">
+
+#### `RESILIENCE`
+
+Backups and restore  
+Graceful fallbacks  
+Lost-input handling  
+Failure-state testing
+
+</td>
+<td width="25%" valign="top">
+
+#### `OBSERVABILITY`
+
+Logs and diagnostics  
+Performance signals  
+Model-output review  
+Iterative improvement
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -445,6 +677,14 @@ engineering_foundation:
 ---
 
 ## Production network
+
+```mermaid
+flowchart LR
+    C["Client need"] --> P["Product experience"]
+    P --> I["Integration layer"]
+    I --> O["Hosting & operations"]
+    O -. feedback .-> P
+```
 
 | NODE | Product | Domain | Contribution |
 |:---:|---|---|---|
@@ -511,13 +751,14 @@ Deployment · DNS · SSL · CDN · caching · backups · security hardening · m
 ## Request-processing protocol
 
 ```mermaid
-flowchart LR
+flowchart TB
     A["01 · Discover"] --> B["02 · Architect"]
     B --> C["03 · Prototype"]
-    C --> D["04 · Validate"]
-    D --> E["05 · Deploy"]
-    E --> F["06 · Observe"]
-    F -. improve .-> B
+    C --> D{"Quality gates"}
+    D -->|pass| E["04 · Deploy"]
+    D -->|improve| C
+    E --> F["05 · Observe"]
+    F -. evidence .-> B
 ```
 
 | Phase | System question | Output |
@@ -556,8 +797,16 @@ My graduate research interest centers on **uncertainty-aware visual-inertial fus
 
 <div align="center">
 
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rabiyajeh&theme=tokyonight" alt="Rabbiya's contribution profile summary" />
+
+<br />
+
 <img height="174" src="https://github-readme-stats.vercel.app/api?username=rabiyajeh&show_icons=true&theme=transparent&hide_border=true&title_color=67E8F9&icon_color=A78BFA&text_color=CBD5E1&bg_color=00000000&rank_icon=github&include_all_commits=true" alt="Rabbiya's GitHub statistics" />
 <img height="174" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabiyajeh&layout=compact&theme=transparent&hide_border=true&title_color=67E8F9&text_color=CBD5E1&bg_color=00000000&langs_count=8" alt="Languages used across Rabbiya's public repositories" />
+
+<br />
+
+<img width="96%" src="https://github-profile-trophy.vercel.app/?username=rabiyajeh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=6" alt="Rabbiya's GitHub achievement trophies" />
 
 <br />
 
@@ -600,7 +849,8 @@ My graduate research interest centers on **uncertainty-aware visual-inertial fus
   "status": "open_to_opportunities",
   "channels": ["AI", "computer vision", "web products", "infrastructure"],
   "collaboration": ["remote roles", "freelance", "research", "hackathons"],
-  "response": "Let's turn the idea into a working system."
+  "response": "Let's turn the idea into a working system.",
+  "endpoint": "mailto:rabiii4046@gmail.com"
 }
 ```
 
@@ -625,6 +875,14 @@ My graduate research interest centers on **uncertainty-aware visual-inertial fus
 
 ![Profile views](https://komarev.com/ghpvc/?username=rabiyajeh&label=PROFILE+REQUESTS&color=06b6d4&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/rabiyajeh?style=flat-square&logo=github&label=NETWORK&color=8b5cf6&labelColor=020617)
+
+<br />
+
+```text
+> SESSION COMPLETE
+> OUTPUT: intelligent systems with human purpose
+> NEXT ACTION: connect · collaborate · build
+```
 
 <img
   width="100%"
