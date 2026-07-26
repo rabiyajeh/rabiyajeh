@@ -21,6 +21,7 @@
 <br />
 
 [![Portfolio](https://img.shields.io/badge/EXPLORE_PORTFOLIO-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rabbiya-web-gallery.com/)
+[![Chat with Rabbiya.AI](https://img.shields.io/badge/CHAT_WITH_RABBIYA.AI-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)](https://rabbiya-ai-chat.rabiii4046.chatgpt.site/)
 [![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rabbiya-jehangir/)
 [![Email](https://img.shields.io/badge/START_A_CONVERSATION-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rabiii4046@gmail.com)
 [![Upwork](https://img.shields.io/badge/HIRE_ON_UPWORK-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/rabbiyaj)
@@ -57,6 +58,15 @@
 ## Ask Rabbiya.AI
 
 <div align="center">
+
+[![Launch the live chatbot](https://img.shields.io/badge/LAUNCH_LIVE_CHATBOT-Ask_me_about_my_work-8B5CF6?style=for-the-badge&logo=openai&logoColor=white&labelColor=020617)](https://rabbiya-ai-chat.rabiii4046.chatgpt.site/)
+
+**Meet my live AI assistant—ask about my background, skills, projects, experience, or how we could work together.**
+
+<sub>Opens the full interactive chatbot in a new page.</sub>
+
+<br />
+<br />
 
 [![Vision mode](https://img.shields.io/badge/%2Fvision-COMPUTER_VISION-06B6D4?style=for-the-badge&labelColor=020617)](#deployed-projects)
 [![Chat mode](https://img.shields.io/badge/%2Fchat-AI_ASSISTANTS-8B5CF6?style=for-the-badge&labelColor=020617)](#ai-conversation-engine)
