@@ -1,10 +1,16 @@
 <div align="center">
 
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:0C4A6E,50:0F766E,75:6D28D9,100:020617&height=285&section=header&text=RABBIYA.AI&fontSize=66&fontColor=F8FAFC&animation=fadeIn&fontAlignY=34&desc=COMPUTER%20ENGINEER%20%E2%86%92%20AI%20SYSTEMS%20%E2%86%92%20PRODUCTION%20IMPACT&descAlignY=57&descSize=18"
-  alt="Rabbiya Jehangir — Computer Engineer and AI Systems Builder"
-/>
+<samp>INITIALIZING PROFESSIONAL INTERFACE...</samp>
+
+# `RABBIYA.AI`
+
+### COMPUTER ENGINEER → AI SYSTEMS → PRODUCTION IMPACT
+
+<samp>
+Human-centered intelligence · Explainable engineering · Reliable delivery
+</samp>
+
+<br /><br />
 
 <img src="https://img.shields.io/badge/SYSTEM-RABBIYA--01-67E8F9?style=for-the-badge&labelColor=020617" alt="Rabbiya system" />
 <img src="https://img.shields.io/badge/STATUS-ONLINE-22C55E?style=for-the-badge&labelColor=020617" alt="Online" />
@@ -38,9 +44,20 @@
 [`ARCHITECTURE`](#-how-i-engineer-intelligence) ·
 [`EXPERIENCE`](#-experience-signal) ·
 [`STACK`](#-technology-command-deck) ·
+[`ACTIVITY`](#-contribution-engine) ·
 [`CONNECT`](#-open-a-channel)
 
 </div>
+
+---
+
+```console
+rabbiya@ai-systems:~$ profile --status
+role        Computer Engineer · AI & Product Builder
+focus       Computer Vision · Intelligent Web · Production Systems
+approach    Research → Prototype → Validate → Deploy → Improve
+signal      Open to ambitious engineering and research collaboration
+```
 
 ---
 
@@ -501,6 +518,22 @@ My graduate research interest centers on **uncertainty-aware visual-inertial fus
 
 ---
 
+## 🐍 Contribution engine
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rabiyajeh/rabiyajeh/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rabiyajeh/rabiyajeh/output/github-contribution-grid-snake.svg" />
+  <img width="96%" alt="Animated contribution snake" src="https://raw.githubusercontent.com/rabiyajeh/rabiyajeh/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<sub>Generated automatically from my contribution graph · light and dark themes supported</sub>
+
+</div>
+
+---
+
 ## 🌐 Production network
 
 | Node | Product | Domain | Route |
@@ -566,10 +599,8 @@ My graduate research interest centers on **uncertainty-aware visual-inertial fus
 > NEXT: connect · collaborate · build
 ```
 
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:6D28D9,65:0F766E,100:020617&height=135&section=footer"
-  alt=""
-/>
+<br />
+
+<samp>━━━━━━━━━━━━━━━━━━━━━━━━ END OF TRANSMISSION ━━━━━━━━━━━━━━━━━━━━━━━━</samp>
 
 </div>
